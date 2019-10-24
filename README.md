@@ -23,10 +23,9 @@ It date file has 44 rows and 18 columns:
 - Public Administration,
 - Social Sciences and History
 
-lets visualize few categories as line chart to understand the data.
-
 These are the steps taken for the projects:
 #### 1. Understanding the data
+lets visualize few categories as line chart to understand the data.
 #### 2. Comparing across all degree categories
 Because there are seventeen degrees that we need to generate line charts for, we'll use a subplot grid layout of 6 rows by 3 columns. We can then group the degrees into STEM, liberal arts, and other and then create a diagram for thses categories.
 #### 3. Hiding x-axis labels
