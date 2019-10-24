@@ -4,22 +4,23 @@ The data as been collected from US college bachelors degrees. It contain percent
 
 It date file has 44 rows and 18 columns:
 
-Year,
-Agriculture,
-Architecture,
-Art and Performance,
-Biology,
-Business,
-Communications and Journalism,
-Computer Science,
-Education,
-Engineering,
-English,
-Foreign Languages,
-Health Professions,
-Math and Statistics,
-Physical Sciences,
-Psychology,
-Public Administration,
-Social Sciences and History
+- Year,
+- Agriculture,
+- Architecture,
+- Art and Performance,
+- Biology,
+- Business,
+- Communications and Journalism,
+- Computer Science,
+- Education,
+- Engineering,
+- English,
+- Foreign Languages,
+- Health Professions,
+- Math and Statistics,
+- Physical Sciences,
+- Psychology,
+- Public Administration,
+- Social Sciences and History
+
 lets visualize few categories as line chart to understand the data.
